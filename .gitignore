@@ -1,0 +1,6 @@
+emulator/src/bin
+emulator/src/*~
+emulator/src/#*
+emulator/src/*.o
+doc/cpu.md
+.gitignore
